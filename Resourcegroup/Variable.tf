@@ -1,0 +1,3 @@
+variable "childrgname" {}
+
+variable "childlocation" {}
